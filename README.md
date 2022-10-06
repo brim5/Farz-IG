@@ -27,5 +27,5 @@ $ python run.py
 ```
 #### Saran penggunaan
 ``` python
-Disarankan menggunakan kartu baru atau kartu yang belum pernah dipakai untuk crack.
-Karena ip device nya masih aman, jadi kemungkinan 
+Lisensi 1 Minggu: 15k
+Lisensi 2 Minggu: 30k
